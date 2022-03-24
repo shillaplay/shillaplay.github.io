@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="10in" height="10in" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 10000 10000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="5058.61" y1="7854.44" x2="4941.39" y2="2145.56">
+    <stop offset="0" stop-opacity="1" stop-color="#4F67D3"/>
+    <stop offset="0.0941176" stop-opacity="1" stop-color="#7B69C3"/>
+    <stop offset="0.188235" stop-opacity="1" stop-color="#4F67D3"/>
+    <stop offset="0.74902" stop-opacity="1" stop-color="#A16BB5"/>
+    <stop offset="1" stop-opacity="1" stop-color="#A76BB3"/>
+   </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path fill="url(#id0)" d="M4771.98 5273.14l-1910.51 -1346.21 1199.28 -845.1 0 -937.12 698.89 0 0 444.59 239.39 -168.72 239.44 168.72 0 -444.59 698.89 0 0 937.08 1224.86 863.11 -2075.41 683.72 2049.9 1444.45 -1199.35 845.15 0 937.08 -698.89 0 0 -444.59 -239.44 168.7 -239.39 -168.7 0 444.59 -698.89 0 0 -937.12 -1222.96 -861.8 2042.9 -706.6 -108.7 -76.63zm-1720.62 -1346.21l3045.72 2146.13 -1098.05 773.74 -1098.11 -773.75 750.62 -528.56 -1576.5 545.28 1095.31 771.83 0 884.1 479.69 0 0 -546.04 349 245.95 349.02 -245.95 0 546.04 479.69 0 0 -884.06 1119.07 -788.57 -3045.79 -2146.19c366.02,-257.9 732.1,-515.7 1097.99,-773.78l1100.15 775.24 -760.43 501.96 1582.57 -521.35 -1093.56 -770.59 0 -884.06 -479.69 0 0 546.02 -349.02 -245.94 -349 245.94 0 -546.02 -479.69 0 0 884.08 -1118.98 788.54zm1915.99 617.52l937.78 -619.03 -906.1 -638.5 -908.12 639.96 876.44 617.57zm31.95 888.91l-908.45 639.72 908.18 639.92 908.17 -639.93 -907.9 -639.71z"/>
+ </g>
+</svg>
